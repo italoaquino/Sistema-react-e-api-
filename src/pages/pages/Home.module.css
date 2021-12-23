@@ -1,0 +1,16 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2em;
+
+}
+
+
+.sublinhado{
+    font-size: 35px;
+    color: orange;
+    padding: 0 .2em;
+    background-color: black;
+}
