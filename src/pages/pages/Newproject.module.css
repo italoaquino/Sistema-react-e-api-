@@ -1,0 +1,18 @@
+.container2 {
+    width: 1200px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    padding-top: 4.2em;
+    min-height: 95%;
+    max-width: 50%;
+  }
+
+.container2 h1{
+  font-size: 35px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+
+ 

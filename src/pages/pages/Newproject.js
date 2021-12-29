@@ -1,12 +1,14 @@
-import styles from '../../layout/Container.module.css'
+import styles from './Newproject.module.css'
 import Formulario from '../../layout/Formulario'
 
 function Newproject(){
+
     return (
-        <div className= {styles.container}>
-            <h1> Criar Projeto </h1>
-            <p> Para criar um projeto e adicionar servicoes</p>
-            <Formulario></Formulario>
+        <div className= {styles.container2}>
+            <div className= {styles.container3}>
+                <h1> Criar Projeto </h1>
+                <Formulario></Formulario>
+            </div>
         </div>
     )
 }

@@ -1,0 +1,17 @@
+.btn{
+    padding-top: 10px;
+}
+
+input{
+    padding-top: 20px;
+}
+
+label{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.errors{
+    color: red;
+    
+}
